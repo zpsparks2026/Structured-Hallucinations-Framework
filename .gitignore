@@ -1,0 +1,58 @@
+# API Keys and Tokens - NEVER COMMIT THESE
+.env
+*.env
+*_key.txt
+*_token.txt
+api_keys/
+tokens/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Simulation Outputs
+*.vtu
+*.vtk
+*.dat
+simulation_output/
+
+# Tournament Transcripts (optional)
+tournament_transcripts/
+
+# Logs
+*.log
+logs/
