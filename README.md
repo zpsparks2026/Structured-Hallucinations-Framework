@@ -46,7 +46,7 @@ This framework addresses a central challenge in AI-accelerated science: **when i
 ## Installation
 
 ```bash
-pip install sympy numpy
+pip install -r requirements.txt
 ```
 
 ## Quick Start
