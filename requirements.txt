@@ -1,2 +1,21 @@
+# Core Dependencies
 sympy>=1.12
 numpy>=1.24.0
+
+# Discord Bot (Optional - for shared arena)
+discord.py>=2.3.0
+python-dotenv>=1.0.0
+
+# LLM APIs (Optional - for tournament mode)
+openai>=1.0.0
+anthropic>=0.8.0
+google-generativeai>=0.3.0
+
+# Slack Bot (Optional - alternative to Discord)
+slack-sdk>=3.23.0
+slack-bolt>=1.18.0
+
+# Development Dependencies (Optional)
+pytest>=7.4.0
+black>=23.0.0
+mypy>=1.7.0
