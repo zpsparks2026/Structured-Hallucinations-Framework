@@ -125,7 +125,8 @@ Developed to address requirements for AI agents to "test new hypotheses and auto
   author = {Sparks, Zachary},
   title = {Structured Hallucinations Framework for AI-Assisted Scientific Discovery},
   year = {2024},
-  url = {https://github.com/yourusername/structured-hallucinations-framework}
+  url = {[https://github.com/zpsparks2026/Structured-Hallucinations-Framework
+]}
 }
 ```
 
